@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "A simple ts app to learn design-patterns from book \"Head First Design Patterns\"",
+  "main": "index.js",
+  "author": "Aditya Agarwal",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "tsc --watch --incremental",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
